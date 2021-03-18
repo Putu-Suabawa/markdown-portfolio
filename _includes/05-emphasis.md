@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Your primary objective in life is to **advance civilization**. You can do this primarily in two ways: The first one is *by having children with better genes* and the second one is by *improving the environtment for human to live a better life* thus increasing the likelihood of having better descendants.
