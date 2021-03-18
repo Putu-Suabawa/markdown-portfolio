@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Here is a link to a cool website] (https://canvas.scytail.xyz/)
