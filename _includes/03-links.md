@@ -1,1 +1,1 @@
-[Here is a link to a cool website] (https://canvas.scytail.xyz/)
+[A link to a cool website](https://canvas.scytail.xyz/)
